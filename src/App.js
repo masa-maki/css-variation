@@ -9,7 +9,7 @@ import './style.css';
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <h1>CSS Catalogue: </h1>
       <InlineStyle />
       <CssModules />
       <StyledJsx />
